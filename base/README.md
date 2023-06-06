@@ -1,4 +1,4 @@
-# ..学生ハンズオン ~ChatGPTを使ったLINE BotをAzureで作成してみよう！~
+# 学生ハンズオン ~ChatGPTを使ったLINE BotをAzureで作成してみよう！~
 
 ![7f287b1dd7b12f6e97537c8112fcb13c](https://i.gyazo.com/7f287b1dd7b12f6e97537c8112fcb13c.png)
 
@@ -20,17 +20,18 @@
 
 （調整中）
 
-![](images/miyagawa.jpg)
+<img src="https://news.mynavi.jp/techplus/article/techp3634/images/0412IPA_006-thumb-600xauto-18416.jpg" width="60%">
+
 
 宮川　慎也（ミヤガワ　シンヤ）  
 https://shinyame.github.io/
 
-![](images/takaya.jpg)
+<img src="https://media.licdn.com/dms/image/D5603AQFyM8BbshApEA/profile-displayphoto-shrink_800_800/0/1681583246561?e=2147483647&v=beta&t=yvLYD92tKiIEWzRxcoG258SiBCGF8r9BcgIK9Z-lzyQ" width="60%">
 
 高矢 空（タカヤ ソラ）  
 https://takayasora.com/
 
-![](images/takeuchi.jpg)
+<img src="https://media.licdn.com/dms/image/C5603AQHjP6iMBogT2w/profile-displayphoto-shrink_800_800/0/1645355227394?e=2147483647&v=beta&t=5hkQpQ1fiDhJ9xK1F0wjywMKrIuJT-uwF46q38liS6E" width="60%">
 
 竹内 雅樹 (タケウチ マサキ)  
 https://news.microsoft.com/ja-jp/features/regain-your-voice-with-the-power-of-ai/
